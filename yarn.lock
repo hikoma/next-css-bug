@@ -758,9 +758,9 @@
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.1.tgz#5c85d662f76fa1d34575766c5dcd6615abcd30d8"
 
-"@zeit/next-css@0.2.1-canary.2":
-  version "0.2.1-canary.2"
-  resolved "https://registry.yarnpkg.com/@zeit/next-css/-/next-css-0.2.1-canary.2.tgz#154e9efc695a995daa2fa360e213a925f0a45491"
+"@zeit/next-css@1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@zeit/next-css/-/next-css-1.0.0.tgz#7b3e1645cb21ef076006a87eea531b2a71d602e5"
   dependencies:
     css-loader "0.28.9"
     extracted-loader "1.0.4"
@@ -2991,9 +2991,9 @@ neo-async@^2.5.0:
   version "2.5.2"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.5.2.tgz#489105ce7bc54e709d736b195f82135048c50fcc"
 
-next@7.0.0-canary.20:
-  version "7.0.0-canary.20"
-  resolved "https://registry.yarnpkg.com/next/-/next-7.0.0-canary.20.tgz#43363883ef2f8276d9d45617003776cc8226ceb0"
+next@7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/next/-/next-7.0.0.tgz#c919b325fbce21b6a1d6cd1cc0be148540e77bfd"
   dependencies:
     "@babel/core" "7.0.0"
     "@babel/plugin-proposal-class-properties" "7.0.0"
